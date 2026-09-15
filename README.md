@@ -25,6 +25,7 @@ Pour un déploiement sur un serveur distant, vous devrez mettre les identifiants
   
 3. **Test** :
 Afin de tester l'application vous pouvez utiliser les identifiants suivant :
+
 | Rôle | Login | Mot de passe |
 | :--- | :--- | :--- |
 | **Administrateur** | `boss` | `secret` |
