@@ -11,6 +11,7 @@ Projet réalisé en binôme dans le cadre du cours de développement web (LO07) 
 - Une modélisation d'une base de données relationnelle via l'inteface PDO de php,
 - Une gestion des utilisateurs et de leurs niveaux d'autorité,
 - Des requêtes SQL sécurisées (préparées).
+- Interfaces responsives avec Boostrap 5
 
 ---
 
