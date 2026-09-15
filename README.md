@@ -25,6 +25,8 @@ Pour un déploiement sur un serveur distant, vous devrez mettre les identifiants
   
 3. **Test** :
 Afin de tester l'application vous pouvez utiliser les identifiants suivant :
-   - **Administrateur** : login -> boss, password -> secret
-   - **Conducteur** : login -> trisprior, password -> secret
-   - **Passager** : login -> calebprior, password -> secret
+| Rôle | Login | Mot de passe |
+| :--- | :--- | :--- |
+| **Administrateur** | `boss` | `secret` |
+| **Conducteur** | `trisprior` | `secret` |
+| **Passager** | `calebprior` | `secret` |
