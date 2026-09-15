@@ -3,10 +3,10 @@
 
 ---
 
-###Présentation du projet
+### Présentation du projet
 Projet réalisé en binôme dans le cadre du cours de développement web (LO07) à l'Université de Technologie de Troyes (UTT). L'objectif était de concevoir une plateforme de covoiturage fonctionnelle en appliquant les bonnes pratiques de développement web et de gestion des bases de données.
 
-###Portée du projet
+### Portée du projet
 - Une implémentation respectant le principe MVC,
 - Une modélisation d'une base de données relationnelle via l'inteface PDO de php,
 - Une gestion des utilisateurs et de leurs niveaux d'autorité,
@@ -14,7 +14,7 @@ Projet réalisé en binôme dans le cadre du cours de développement web (LO07) 
 
 ---
 
-###Installation et déploiement
+### Installation et déploiement
 Le projet peut être exécuté en local ou sur un serveur web.
 
 1. **Base de données** :
