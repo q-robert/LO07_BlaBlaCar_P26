@@ -1,4 +1,4 @@
-# LO07_BlaBlaCar_P26 HIHIHIHA
+# LO07_BlaBlaCar_P26
 > *Développement d’un prototype d’application web connectée à une base de données relationnelle suivant le modèle MVC.*
 
 ---
